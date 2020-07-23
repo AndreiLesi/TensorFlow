@@ -1,2 +1,2 @@
 # TensorFlow (Work in Progress)
-ToDo: Add TF example scripts
+ToDo: Clean up and add TF projects
